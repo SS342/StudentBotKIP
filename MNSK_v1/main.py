@@ -9,11 +9,11 @@ from selenium.webdriver.common.by import By
 import datetime
 import telebot
 from schedule import every, repeat, run_pending
-LOGIN = 'ss342'
-PASSWORD = 'swipe2005ov'
-MYTELEGRAMID = 1137363239 # u telegram id
-TOKEN = '1870153181:AAFwniEcHvluk5A20lxtmsNLtOQvuFjkY9Y'
-APIWeather = "e82dd923fb13c5bc99a0f73bdb75064b"
+
+LOGIN = '' # от эж
+PASSWORD = '' # от эж
+MYTELEGRAMID = int("") # u telegram id
+TOKEN = '' # от телеги
 def getDate():
     now = datetime.datetime.now()
     date = f"{'0' if int(now.day) < 10 else ''}{now.day}.{'0' if int(now.month) < 10 else ''}{now.month}"
@@ -69,19 +69,4 @@ def main():
     
     print(lessons)
     print(message)
-
-def weather():
-    s_city = "Petersburg,RU"
-    city_id = 0
-    appid = "буквенно-цифровой APPID"
-    try:
-        res = requests.get("http://api.openweathermap.org/data/2.5/find",
-                    params={'q': s_city, 'type': 'like', 'units': 'metric', 'APPID': APIWeather})
-        data = res.json()
-        cities = ["{} ({})".format(d['name'], d['sys']['country'])
-                for d in data['list']]
-        print(data)
-    except Exception as e:
-        print("Exception (find):", e)
-        pass 
-weather()
+main()
