@@ -1,0 +1,846 @@
+1646906011334	geckodriver	INFO	Listening on 127.0.0.1:23523
+1646906014446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "23524" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileAFrr5Q"
+1646906015519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileAFrr5Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:23524/devtools/browser/7e38058b-e786-4828-99a0-5de387ebea8a
+1646906020235	Marionette	INFO	Listening on port 23529
+1646906020400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+1646907194764	Marionette	INFO	Stopped listening on port 23529
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646907203185	geckodriver	INFO	Listening on 127.0.0.1:19041
+1646907206288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "19042" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileIAAvKC"
+1646907207164	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileIAAvKC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:19042/devtools/browser/ce012255-3190-4df4-8099-098ff227665c
+1646907211828	Marionette	INFO	Listening on port 19050
+1646907212168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+1646907239935	Marionette	INFO	Stopped listening on port 19051646907242922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "19153" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileLYFC74"
+1646907243679	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileLYFC74\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:19153/devtools/browser/97bb7c1c-796c-49bd-bf51-ec5382cbd0a2
+1646907247736	Marionette	INFO	Listening on port 19162
+1646907248282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+1646907273632	Marionette	INFO	Stopped listening on port 19162
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646907276247	geckodriver	INFO	Listening on 127.0.0.1:19267
+1646907279319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "19268" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofile8MZJB3"
+1646907280106	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofile8MZJB3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:19268/devtools/browser/a365841b-ad57-43b9-95ae-eca2f0ed3616
+1646907284592	Marionette	INFO	Listening on port 19275
+1646907284662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+1646907306290	Marionette	INFO	Stopped listening on port 19275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646907325078	geckodriver	INFO	Listening on 127.0.0.1:19385
+1646907328182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "19386" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileS2W11Q"
+1646907329068	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileS2W11Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:19386/devtools/browser/94f70426-3997-4305-9b26-52024b4fff4e
+1646907333318	Marionette	INFO	Listening on port 19394
+1646907333556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+1646907364632	geckodriver	INFO	Listening on 127.0.0.1:19496
+1646907367731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "19497" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileKo2imZ"
+1646907368647	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileKo2imZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:19497/devtools/browser/5315ce66-c4eb-4847-951c-c2173c79c15d
+1646907373166	Marionette	INFO	Listening on port 19506
+1646907373592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.f64c9cc9.js, line 1: WebGL context was lost.
+1646933933745	geckodriver	INFO	Listening on 127.0.0.1:9481
+1646933936881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9482" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofiles4QFHc"
+1646933938024	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofiles4QFHc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9482/devtools/browser/4f31df74-fc24-4d2d-ab3a-b8960235a5c3
+1646933942653	Marionette	INFO	Listening on port 9488
+1646933942794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+1646934153486	Marionette	INFO	Stopped listening on port 9488
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "9716" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileNReJB9"
+1646934135045	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileNReJB9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9716/devtools/browser/0084c704-7697-40af-961f-ba887f2eed10
+1646934138818	Marionette	INFO	Listening on port 9724
+1646934139287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+1646934156022	geckodriver	INFO	Listening on 127.0.0.1:9822
+1646934158239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9823" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofile0gJmT9"
+1646934159195	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofile0gJmT9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9823/devtools/browser/f90736d2-96fc-4d69-bc95-a6394fcce4fa
+1646934163864	Marionette	INFO	Listening on port 9830
+1646934164131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+1646934182659	geckodriver	INFO	Listening on 127.0.0.1:9920
+1646934185755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9921" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileC1aqCZ"
+1646934186685	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileC1aqCZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9921/devtools/browser/d8ccb40a-e26b-4ef7-824b-74080edd07d5
+1646934191146	Marionette	INFO	Listening on port 9928
+1646934191618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+1646934390087	Marionette	INFO	Stopped listening on port 9928
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofilepfQflt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10139/devtools/browser/8b0d90eb-ebab-4b50-8040-5bcf22e2fac6
+1646934391153	Marionette	INFO	Listening on port 10147
+1646934391400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+1646934557466	geckodriver	INFO	Listening on 127.0.0.1:10347
+1646934560558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10348" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileJriKfd"
+1646934561447	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileJriKfd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10348/devtools/browser/460e5cc8-51c5-4fde-9159-a1e0916a8203
+1646934566207	Marionette	INFO	Listening on port 10356
+1646934566438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+1646942615466	Marionette	INFO	Stopped listening on port 10356
+[Parent 21440, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646942615859	geckodriver	INFO	Listening on 127.0.0.1:30183
+1646942618979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "30184" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileuOECzs"
+1646942619923	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileuOECzs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:30184/devtools/browser/867af01d-d409-4001-83db-52820d48c5a9
+1646942624715	Marionette	INFO	Listening on port 30191
+1646942624849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+1646942660026	Marionette	INFO	Stopped listening on port 30191
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646942768375	geckodriver	INFO	Listening on 127.0.0.1:33610
+1646942771467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "33611" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileUzCaR0"
+1646942772833	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileUzCaR0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33611/devtools/browser/e890c7cd-d6e8-41b0-b8c0-97ed7a88ed39
+1646942777875	Marionette	INFO	Listening on port 33616
+1646942777996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+1646942804981	Marionette	INFO	Stopped listening on port 33616
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646942956374	geckodriver	INFO	Listening on 127.0.0.1:33732
+1646942959454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "33733" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileU7bPBL"
+1646942960282	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileU7bPBL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33733/devtools/browser/998d11d4-b9a7-4b97-84f5-c12fbd8939ad
+1646942964838	Marionette	INFO	Listening on port 33739
+1646942965342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://kaliningrad.mfua.ru/bitrix/templates/kaliningrad/js/jquery.colorbox-min.js?, line 2: TypeError: c(...).live is not a function
+JavaScript error: https://kaliningrad.mfua.ru/bitrix/templates/.default/special/js/main.js?t=1, line 99: TypeError: $(...).live is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646942990183	Marionette	INFO	Stopped listening on port 33731646942992376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "33848" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofilekSVJ3a"
+1646942993217	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofilekSVJ3a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33848/devtools/browser/ea08b049-ce7b-47da-b1f5-1ee7d437924d
+1646942997546	Marionette	INFO	Listening on port 33853
+1646942997757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+1646943192248	Marionette	INFO	Stopped listening on port 33853
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+NFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofile6BHQ2N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8407/devtools/browser/2aa1c9c5-5849-47d0-a574-cf5be3ce934f
+1646943135882	Marionette	INFO	Listening on port 8412
+1646943136040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+1646943193329	Marionette	INFO	Stopped listening on port 8412
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646943356325	geckodriver	INFO	Listening on 127.0.0.1:8652
+1646943359412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8653" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileGNHg0l"
+1646943360370	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileGNHg0l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8653/devtools/browser/61fe8180-bc46-4302-a6ea-dbb973cd2b2b
+1646943365125	Marionette	INFO	Listening on port 8660
+1646943365321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 1612, MediaDecoderStateMachine #1] WARNING: Decoder=24655798f00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:367
+[Child 1612, MediaDecoderStateMachine #1] WARNING: Decoder=24655798f00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3568
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1646943616445	Marionette	INFO	Stopped listening on port 8660
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "8851" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofile8hLoaK"
+1646943450767	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofile8hLoaK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8851/devtools/browser/e2a99900-3697-4667-bb22-75a2c6d771fa
+1646943455281	Marionette	INFO	Listening on port 8857
+1646943455698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1646943617158	Marionette	INFO	Stopped listening on port 8857
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofilenukegB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9102/devtools/browser/9c420274-006a-4f51-98a0-a8ddced43be9
+1646943578230	Marionette	INFO	Listening on port 9108
+1646943578709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646943617866	Marionette	INFO	Stopped listening on port 9101646943618866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9276" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileh0dmXP"
+1646943619767	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileh0dmXP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9276/devtools/browser/efbf00a8-0bcf-4f63-a52f-32fc7f72a05c
+1646943624370	Marionette	INFO	Listening on port 9285
+1646943624715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm,1646943677384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9464" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileJT6MWw"
+1646943678176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileJT6MWw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9464/devtools/browser/a4266ee3-5f51-439c-9738-281b39bb20dc
+1646943681838	Marionette	INFO	Listening on port 9471
+1646943682241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1646943691284	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646943748905	Marionette	INFO	Stopped listening on port 9471646943751040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9667" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileUhZSAA"
+1646943752018	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileUhZSAA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9667/devtools/browser/2cc6d596-8690-42fb-af76-fee89e344a82
+1646943755328	Marionette	INFO	Listening on port 9674
+1646943755356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.265ca7d0.js, line 1: WebGL context was lost.
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1646943765334	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5364, MediaDecoderStateMachine #1] WARNING: Decoder=1db1c8bca00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:367
+[Child 5364, MediaDecoderStateMachine #1] WARNING: Decoder=1db1c8bca00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3568
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 1db2a18bac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 1db1c831820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 1db24eda660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1647189354025	geckodriver	INFO	Listening on 127.0.0.1:1045
+1647189357089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1046" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileluQ7x0"
+1647189358415	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileluQ7x0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1046/devtools/browser/030ee03b-4d66-499a-8c40-0f4b4dd73eea
+1647189364410	Marionette	INFO	Listening on port 1056
+1647189364631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+1647189466056	Marionette	INFO	Stopped listening on port 1056
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647189682073	geckodriver	INFO	Listening on 127.0.0.1:1040
+1647189685179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1041" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileclRLpC"
+1647189686085	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileclRLpC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1041/devtools/browser/56cc0993-2533-4e26-910b-ca36bf07600d
+1647189690722	Marionette	INFO	Listening on port 1047
+1647189691037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+1647189888523	Marionette	INFO	Stopped listening on port 1041647189888775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, 1647189889616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofilexWE5XU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1214/devtools/browser/edc797d6-7dba-43bb-8f44-f4d127826c08
+1647189893789	Marionette	INFO	Listening on port 1222
+1647189894110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+1647189945841	Marionette	INFO	Stopped listening on port 1221647189947787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1331" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileqaa4xq"
+1647189948588	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileqaa4xq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1331/devtools/browser/a3a5d6c4-6f1c-4025-9b8c-6e8fc90c506a
+1647189952719	Marionette	INFO	Listening on port 1342
+1647189953109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+1647190690678	Marionette	INFO	Stopped listening on port 1342
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9968, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+uld not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileK9uwqr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2287/devtools/browser/89fab97b-7883-4b51-a355-30092abd2718
+1647190681967	Marionette	INFO	Listening on port 2295
+1647190682265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+1647190694254	Marionette	INFO	Stopped listening on port 2295
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647190701639	geckodriver	INFO	Listening on 127.0.0.1:2402
+1647190704738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2403" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileUnJRAM"
+1647190705704	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileUnJRAM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2403/devtools/browser/19148fe9-fab1-4387-be7a-49f9b205255f
+1647190709964	Marionette	INFO	Listening on port 2411
+1647190710082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kip.eljur.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript error: https://ad.mail.ru/static/ads-async.js, line 2: TypeError: t is null
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://kip.eljur.ru/assets/dist/main.698c62b4.js, line 1: WebGL context was lost.
+1647190726451	Marionette	INFO	Stopped listening on port 2411
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647190729942	geckodriver	INFO	Listening on 127.0.0.1:2503
+1647190733011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2504" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofiletitQuy"
+1647190733847	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofiletitQuy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2504/devtools/browser/73d436f7-7b19-4864-a48a-ecac432cf39f
+1647190738299	Marionette	INFO	Listening on port 2512
+1647190738374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647190766843	geckodriver	INFO	Listening on 127.0.0.1:2579
+1647190769953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2580" "-no-remote" "-profile" "C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileayffeX"
+1647190770756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alex2\\AppData\\Local\\Temp\\rust_mozprofileayffeX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2580/devtools/browser/e52e1486-becb-4ff2-8bd8-4fd68757ba1c
+1647190775098	Marionette	INFO	Listening on port 2587
+1647190775284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
