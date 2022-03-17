@@ -9,11 +9,11 @@ from selenium.webdriver.common.by import By
 import datetime
 import telebot
 from schedule import every, repeat, run_pending
-
-LOGIN = '' # от эж
-PASSWORD = '' # от эж
+LOGIN = ''
+PASSWORD = ''
 MYTELEGRAMID = int("") # u telegram id
-TOKEN = '' # от телеги
+TOKEN = ''
+
 def getDate():
     now = datetime.datetime.now()
     date = f"{'0' if int(now.day) < 10 else ''}{now.day}.{'0' if int(now.month) < 10 else ''}{now.month}"
@@ -32,10 +32,10 @@ options = Options()
 #options.headless = True
 options.binary_location = r"C:\Program Files\Mozilla Firefox\firefox.exe"
 driver = webdriver.Firefox(executable_path=r'C:\Users\alex2\Desktop\MNSK_v1\geckodriver.exe', options=options)
-#driver.get('https://kip.eljur.ru/')
-#time.sleep(2)
-#authorization(LOGIN, PASSWORD)
-#driver.find_elements(By.XPATH, '//*[@id="layout"]/div[2]/header/div/div/div[1]/nav/div/a[1]')[0].click()
+driver.get('https://kip.eljur.ru/')
+time.sleep(2)
+authorization(LOGIN, PASSWORD)
+driver.find_elements(By.XPATH, '//*[@id="layout"]/div[2]/header/div/div/div[1]/nav/div/a[1]')[0].click()
 
 days = {
     1 : "/html/body/div[1]/div[2]/main/div/div[2]/div/div[2]/div[1]/div[3]/div[1]/div/div[1]",
@@ -69,4 +69,5 @@ def main():
     
     print(lessons)
     print(message)
+ 
 main()
